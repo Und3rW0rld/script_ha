@@ -1,0 +1,110 @@
+CODIGO,TIPO,DESCRIPCION
+1,B,Aplazamiento del uso del derecho de matrícula por parte del admitido.
+1,D,Vencimiento del aplazamiento del derecho de matrícula por parte del admitido.
+2,B,Traslado de Programa Curricular.
+2,D,Reintegro por vencimiento de los plazos de la reserva de cupo.
+3,B,Reserva de cupo.
+3,D,Acto administrativo del Consejo de Facultad que autoriza el reingreso por primera vez.
+4,D,Acto administrativo del Consejo de Sede que autoriza el reingreso por segunda vez.
+4,B,Completar el ciclo de estudios previsto.
+5,D,Acto administrativo del Consejo de Sede que autoriza el reingreso por tercera y última vez.
+5,B,Retiro por no renovar matrícula en los plazos establecidos por la Universidad.
+6,D,Acto administrativo del Consejo de Facultad que autoriza el levantamiento de la sanción  (o el reingreso luego del vencimiento de la misma en caso de que aplique).
+6,B,Retiro por no renovar la matrícula luego de vencidos los plazos de la reserva de cupo.
+7,D,Acto administrativo del Comité de Matrícula que autoriza el registro antes de cumplir  el tiempo del aplazamiento de matrícula.
+7,B,Retiro por no aprobar al menos la tercera parte de las asignaturas inscritas en un periodo académico.
+8,D,Acto administrativo del Consejo de Sede que autoriza el levantamiento de la sanción (o el reingreso luego del vencimiento de la misma en caso de que aplique).
+8,B,Retiro por perder una asignatura por tercera vez.
+9,D,Acto administrativo del Consejo de Facultad que autoriza el reintegro antes de cumplir el tiempo de la reserva de cupo.
+9,B,Retiro por perder una asignatura teórica por segunda vez y tener promedio acumulado de la carrera menor a 2.95.
+10,D,Acto administrativo del Director de registro que autoriza el desbloqueo temporal para generación de recibos.
+10,B,Retiro por perder una asignatura práctica o teórico-práctica por segunda vez y tener promedio acumulado de la carrera menor a 3.15.
+11,D,Acto administrativo que autoriza el desbloqueo por error administrativo.
+11,B,Retiro por no sustentar el Trabajo de Grado.
+12,B,Retiro por no aprobar la Tesis o el Trabajo final.
+12,D,Acto administrativo del Consejo de Sede que autoriza el reintegro antes de cumplir el tiempo de la reserva de cupo.
+13,D,Acto administrativo del Consejo Académico que autoriza el levantamiento de la sanción (o el reingreso luego del vencimiento de la misma en caso de que aplique).
+13,B,Retiro por perder dos asignaturas o perder la misma asignatura dos veces.
+14,D,Acto administrativo del Consejo Superior que autoriza.
+14,B,Retiro por no aprobar al menos una asignatura cuando inscribió dos.
+15,B,Cancelación de la matrícula por sanción.
+15,D,Acto administrativo del Consejo de Facultad o Consejo de Sede o Consejo Académico que autoriza el reingreso para sustentar el Trabajo de Grado.
+16,B,Expulsión de la Universidad.
+16,D,Acto administrativo del Comité de Matrícula que autoriza el pago extemporáneo del valor de la matrícula.
+17,B,Enfermedad debidamente comprobada.
+17,D,Acto Administrativo del Consejo de Sede que autoriza Derogación de Traslado de Programa Curricular.
+18,B,Historia Académica bloqueada en el Plan de Estudios.
+18,D,Acto Administrativo del Consejo de Sede que autoriza el Reingreso
+19,B,Retiro por evaluación integral insatisfactoria.
+19,D,Acto Administrativo del Consejo de Facultad o Consejo de Sede o Consejo Académico que autoriza la ampliación del tiempo máximo de permanencia en el programa de posgrado
+20,B,Retiro por superar el tiempo máximo de permanencia permitido en el Posgrado.
+20,D,Desbloqueo para modificación de calificaciones.
+21,B,Bajo rendimiento académico (Posgrado).
+21,D,Acto Administrativo del Consejo de Facultad que autoriza reingreso al Programa Curricular.
+22,B,Retiro por segunda evaluación insatisfactoria del avance de la Tesis.
+22,D,Fin Etapa Inicial PEAM
+23,B,Traslado de idioma en el Programa ALEX
+23,D,Reintegro por reserva de cupo
+24,B,Certificará División de Registro por sistema vigente año 2003.
+24,D,"Desbloqueo de H.A. por desistimiento de decisión tomada por CSU, CS, CF o CMS"
+25,D,Actualización de historias académicas de PEAMA
+25,B,Prórroga del aplazamiento del uso del derecho de matrícula por parte del admitido.
+26,D,Acto Administrativo del Comité Académico Administrativo que autoriza reingreso al Programa Curricular.
+26,B,Historia Académica inactiva por fallecimiento.
+27,D,Desbloqueo por demostrar los requisitos de matrícula
+27,B,Retiro definitivo del Programa Curricular
+28,B,Traslado a Plan de Estudios Acuerdo 037 del C.S.U.
+28,D,Desbloqueo por readmisión en el mismo plan de estudios.
+29,B,Completar Ciclo de Estudios en Programa Especial Admisión por Áreas
+29,D,Autorización de desbloqueo de la historia académica para ingreso del requisito de idioma
+30,B,"Finalización, estudiantes visitantes."
+30,D,Prórroga movilidad académica estudiantil entrante
+31,B,Etapa inicial SPN (Acuerdo 025 de 2007 CSU)
+32,B,Etapa movilidad PEAM (Acuerdo 025 de 2007 CSU)
+33,B,Traslado a Plan de Estudios Acuerdo 033 del CSU
+34,B,Grado Póstumo
+35,B,Presentar un Promedio Aritmético Ponderado Acumulado (PAPA) menor que tres punto cinco (3.5)
+36,B,Obtener dos calificaciones de Reprobado en actividades académicas diferentes a las asignaturas
+37,B,Presentar un Promedio Aritmético Ponderado Acumulado menor que tres punto cero (3.0)
+38,B,No disponer de cupo de créditos suficiente para inscribir las asignaturas pendientes de aprobación
+40,B,Reserva de cupo automática
+41,B,Readmisión Res.235 de 2009 Vic. Académica
+42,B,Traslado de Sede
+43,B,Plan en Doble Titulación
+44,B,Bloqueo temporal aplazamiento matrícula por determinación de la Universidad
+44,D,Desbloqueo para actualización de plan de Doble Titulación
+45,B,Bloqueo por Modificación de Plan de Estudios - Autoriza CSU
+45,D,Desbloqueo para migración por modificación de Plan de Estudios - Autoriza CSU
+46,B,Historia académica bloqueada por cambio de modalidad de Trabajo de Grado
+46,D,Finalización bloqueo temporal aplazamiento matrícula por determinación de la Universidad
+47,B,Pérdida del derecho a doble titulación
+48,B,Culminación tiempo disponible para cursar asignatura Trabajo de Grado - MAP
+49,B,Inscripción inferior a la mínima Modalidad Asignaturas de Posgrado
+50,B,Modalidad de Trabajo de Grado - Asignaturas de Posgrado Aprobada
+51,B,Modalidad de Trabajo de Grado - Asignaturas de Posgrado Reprobada
+52,B,Suspensión Temporal Acuerdo 44 de 2009 C.S.U
+53,B,Anulación matrícula inicial posgrado por no cumplimiento con el requisito general de titulación
+99,D,Pendiente
+100,D,CAMBIO PLAN DE ESTUDIOS
+100,B,"Bloqueo por permanencia, agotadas todas las convocatorias de alguna asignatura"
+101,D,Concesión de la convocatoria de gracia
+101,B,No uso del derecho de matrícula por parte del admitido.
+102,B,Admitido con pago que no hizo uso del derecho de matrícula
+110,B,"Bloqueo parcial, agotadas todas las convocatorias de alguna asignatura"
+111,D,Rectificación en la nota de la asignatura que bloqueaba
+125,B,"Bloqueo parcial por superación previa al cierre, por convalidación, adaptación o reconocimiento."
+126,D,Desbloqueo parcial por superación previa.
+135,D,Evaluación positiva.
+135,B,No superación Líneas de Evaluación.
+150,D,"Acto académico del CSU, CS o CF que autoriza el traslado al mismo programa curricular"
+200,B,Bloqueo por impago
+200,D,Documentación completa
+201,D,Desbloqueo de impago por importe satisfecho
+555,D,Desbloqueo por Dobles Titulaciones.
+555,B,Bloqueo por Dobles Titulaciones.
+556,B,Bloqueo por renuncia de las Dobles Titulaciones.
+557,D,Desbloqueo expediente hijo por consecución nodo fin en la doble titulación.
+558,B,Bloqueo por consecución nodos fin de la doble titulación.
+560,D,Desbloqueo por fecha límite de entrega de documentación superada
+560,B,Bloqueo por fecha límite de entrega de documentación superada
+600,B,Pérdida de la calidad de estudiante
